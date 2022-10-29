@@ -1,0 +1,45 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.idb
+*.pdb
+
+/.vs
+/x64
+/build
+DllLeaver/x64
+DllLeaver/build
+DllLeaver/.vs
+Homework_3_11_2/x64
+Homework_3_11_2/build
+Homework_3_11_2/.vs
